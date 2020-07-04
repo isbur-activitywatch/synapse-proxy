@@ -1,0 +1,3 @@
+[submodule "synapse-credentials"]
+	path = synapse-credentials
+	url = https://github.com/isbur-activitywatch/synapse-credentials
